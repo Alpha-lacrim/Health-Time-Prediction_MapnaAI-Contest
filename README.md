@@ -16,6 +16,6 @@ The workflow in the notebook `notebook.ipynb` includes:
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone [https://github.com/Alpha-lacrim/Health-Time-Prediction.git](https://github.com/Alpha-lacrim/Health-Time-Prediction_MapnaAI-Contest/)
+git clone https://github.com/Alpha-lacrim/Health-Time-Prediction_MapnaAI-Contest
 cd Health-Time-Prediction_MapnaAI-Contest
 pip install -r requirements.txt
